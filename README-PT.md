@@ -13,8 +13,8 @@ A ferramenta ScreenCap é uma aplicação em Python projetada para capturar scre
 ## Uso
 1. Clone o repositório: `git clone https://github.com/kelly-blue/ScreenCap.git`
 2. Navegue até o diretório: `cd ScreenCap`
-3. Instale as dependências: `pip install -r requirements.txt`
-4. Execute a ferramenta: `python screencap.py -w wordlist.txt`
+3. Instale as dependências: `pip3 install -r requirements.txt` ou `pip install -r requirements.txt`
+4. Execute a ferramenta: `python3 screencap.py -w wordlist.txt`
 
 ## Opções
 - `-w, --wordlist`: Caminho para a wordlist de URLs.
@@ -23,7 +23,7 @@ A ferramenta ScreenCap é uma aplicação em Python projetada para capturar scre
 ## Exemplo
 
 ```bash
-python screencap.py -w urls.txt -o output_folder
+python3 screencap.py -w urls.txt -o output_folder
 ```
 
 ## Contribuições

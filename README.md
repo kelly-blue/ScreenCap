@@ -13,8 +13,8 @@ ScreenCap is a Python application designed to capture screenshots and page sourc
 ## Usage
 1. Clone the repository: `git clone https://github.com/kelly-blue/ScreenCap.git`
 2. Navigate to the directory: `cd ScreenCap`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run the tool: `python screencap.py -w wordlist.txt`
+3. Install dependencies: `pip3 install -r requirements.txt` or `pip install -r requirements.txt`
+4. Run the tool: `python3 screencap.py -w wordlist.txt`
 
 ## Options
 - `-w, --wordlist`: Path to the URL wordlist.
@@ -22,7 +22,7 @@ ScreenCap is a Python application designed to capture screenshots and page sourc
 
 ## Example
 ```bash
-python screencap.py -w urls.txt -o output_folder
+python3 screencap.py -w urls.txt -o output_folder
 ```
 ## Contributions
 Contributions are welcome! Feel free to open issues or pull requests.
