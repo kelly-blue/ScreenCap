@@ -2,7 +2,6 @@
 ---
 A ferramenta ScreenCap é uma aplicação em Python projetada para capturar screenshots e código-fonte de URLs de forma rápida e eficiente. Ela utiliza Selenium e threading para acelerar o processo, e pode ser personalizada através da passagem de uma wordlist contendo as URLs alvo.
 
-
 ![Imagem-de-screencap](screencap.png)
 
 ## Funcionalidades
