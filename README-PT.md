@@ -11,7 +11,7 @@ A ferramenta ScreenCap é uma aplicação em Python projetada para capturar scre
 - Personalizável através de uma wordlist.
 
 ## Uso
-1. Clone o repositório: `git clone https://github.com/seu-username/ScreenCap.git`
+1. Clone o repositório: `git clone https://github.com/kelly-blue/ScreenCap.git`
 2. Navegue até o diretório: `cd ScreenCap`
 3. Instale as dependências: `pip install -r requirements.txt`
 4. Execute a ferramenta: `python screencap.py -w wordlist.txt`
