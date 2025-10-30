@@ -1,3 +1,4 @@
 colorama
 selenium
 requests
+webdriver_manager
